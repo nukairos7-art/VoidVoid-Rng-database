@@ -1,0 +1,25 @@
+{
+    "title": "VOID VOID RNG",
+    "slug": "VV-Rng",
+    "developer": "Lavell Brown",
+    "repository": "https://github.com/nukairos7-art/VOID-VOID-RNG",
+    "platform": "GBC",
+    "typetag": "rom",
+    "date": "2024-10-06",
+    "tags": [
+        "Closed Source"
+    ],
+    "play": {
+        "enable": true
+    },
+    "screenshots": [
+      
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "VoidVoidrng.gb",
+            "playable": true
+        }
+    ]
+}
